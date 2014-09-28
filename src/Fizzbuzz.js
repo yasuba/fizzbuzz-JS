@@ -23,3 +23,4 @@ Fizzbuzz.prototype.playGame = function(number){
     if (this.isDivisibleByThree(number)) return "Fizz";
     return number;
 };
+
